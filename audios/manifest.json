@@ -7,9 +7,9 @@
     {
       "index": 0,
       "id": "s1",
-      "title": "NR 11 —EMPILHADEIRA",
+      "title": "NR 11 — EMPILHADEIRA RETRÁTIL",
       "file": "audios/s1.mp3",
-      "text": "Módulo de Treinamento. Segurança do Trabalho. NR 11 — Empilhadeira. Inclui conteúdo complementar da NR 12. Treinamento de capacitação e reciclagem em movimentação, armazenagem e manuseio de materiais com empilhadeira conforme NR-11. São sete módulos, conteúdo completo, cento por cento online.",
+      "text": "Módulo de Treinamento. Segurança do Trabalho. NR 11 — Empilhadeira Retrátil. Inclui conteúdo complementar da NR 12. Treinamento de capacitação e reciclagem em movimentação, armazenagem e manuseio de materiais com empilhadeira conforme NR-11. São sete módulos, conteúdo completo, cento por cento online.",
       "audioReady": true
     },
     {
@@ -17,7 +17,7 @@
       "id": "s2",
       "title": "Bem-vindo ao Treinamento",
       "file": "audios/s2.mp3",
-      "text": "Apresentação. Bem-vindo ao Treinamento. NR 11 — Operador de Empilhadeira. Assista ao vídeo de introdução à NR 11 e o nosso objetivo. Avance quando concluir.",
+      "text": "Apresentação. Bem-vindo ao Treinamento. NR 11 — Empilhadeira Retrátil. Assista ao vídeo de introdução à NR 11 e o nosso objetivo. Avance quando concluir.",
       "audioReady": true
     },
     {
@@ -481,7 +481,7 @@
       "id": "s-fim",
       "title": "Treinamento — Concluído",
       "file": "audios/s-fim.mp3",
-      "text": "Parabéns. Você concluiu o treinamento NR 11 — Operador de Empilhadeira, com conteúdo complementar da NR 12. Por mérito, dedicação e compromisso com a segurança, você percorreu os sete módulos e demonstrou responsabilidade com a sua vida e com a vida dos seus colegas. A segurança é um direito de todos e um dever de cada um. Continue fazendo a sua parte.",
+      "text": "Parabéns. Você concluiu o treinamento NR 11 — Empilhadeira Retrátil, com conteúdo complementar da NR 12. Por mérito, dedicação e compromisso com a segurança, você percorreu os sete módulos e demonstrou responsabilidade com a sua vida e com a vida dos seus colegas. A segurança é um direito de todos e um dever de cada um. Continue fazendo a sua parte.",
       "audioReady": true
     }
   ]

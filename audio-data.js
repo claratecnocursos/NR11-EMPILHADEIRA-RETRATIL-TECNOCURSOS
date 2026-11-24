@@ -18,9 +18,9 @@ const MANIFEST_PATH = path.join(OUTPUT_DIR, 'manifest.json');
 /** Textos customizados para slides com pouco conteúdo textual ou conteúdo dinâmico. */
 const NARRATION_OVERRIDES = {
   s1:
-    'Módulo de Treinamento. Segurança do Trabalho. NR 11 — Empilhadeira. Inclui conteúdo complementar da NR 12. Treinamento de capacitação e reciclagem em movimentação, armazenagem e manuseio de materiais com empilhadeira conforme NR-11. São sete módulos, conteúdo completo, cento por cento online.',
+    'Módulo de Treinamento. Segurança do Trabalho. NR 11 — Empilhadeira Retrátil. Inclui conteúdo complementar da NR 12. Treinamento de capacitação e reciclagem em movimentação, armazenagem e manuseio de materiais com empilhadeira conforme NR-11. São sete módulos, conteúdo completo, cento por cento online.',
   s2:
-    'Apresentação. Bem-vindo ao Treinamento. NR 11 — Operador de Empilhadeira. Assista ao vídeo de introdução à NR 11 e o nosso objetivo. Avance quando concluir.',
+    'Apresentação. Bem-vindo ao Treinamento. NR 11 — Empilhadeira Retrátil. Assista ao vídeo de introdução à NR 11 e o nosso objetivo. Avance quando concluir.',
   s6:
     'Sumário. Conteúdo Programático. Módulo 1: Introdução à NR 11, Responsabilidades e Aspectos Legais. Módulo 2: Aptidão Psicofísica, Saúde e Regras de Acesso. Módulo 3: Normas de Trânsito Interno e Circulação. Módulo 4: Interação Máquina e Pedestre, Red Zone e Pontos Cegos. Módulo 5: Operações de Alta Complexidade, Ressuprimento de Picking e Docas. Módulo 6: Abastecimento, Pit Stop, Zoneamento de Risco e Comportamento. Módulo 7: NR 12 — Segurança no Trabalho em Máquinas e Equipamentos.',
   's-mod1':
@@ -128,7 +128,7 @@ const NARRATION_OVERRIDES = {
     'Vídeo. Condutas Proibidas e Boas Práticas. NR 12 — Segurança no Trabalho em Máquinas e Equipamentos. Assista ao vídeo sobre condutas proibidas e boas práticas. Avance quando concluir.',
   's-mod7-game': null, // montado a partir do deck do jogo Módulo 7
   's-fim':
-    'Parabéns. Você concluiu o treinamento NR 11 — Operador de Empilhadeira, com conteúdo complementar da NR 12. Por mérito, dedicação e compromisso com a segurança, você percorreu os sete módulos e demonstrou responsabilidade com a sua vida e com a vida dos seus colegas. A segurança é um direito de todos e um dever de cada um. Continue fazendo a sua parte.',
+    'Parabéns. Você concluiu o treinamento NR 11 — Empilhadeira Retrátil, com conteúdo complementar da NR 12. Por mérito, dedicação e compromisso com a segurança, você percorreu os sete módulos e demonstrou responsabilidade com a sua vida e com a vida dos seus colegas. A segurança é um direito de todos e um dever de cada um. Continue fazendo a sua parte.',
 };
 
 function cleanText(text) {
