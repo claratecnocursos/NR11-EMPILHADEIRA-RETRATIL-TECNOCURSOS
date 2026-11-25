@@ -240,8 +240,8 @@ window.QUESTION_SCREEN_SESSION = {
           type: "video",
           kicker: "Vídeo",
           title: "Controle de Acesso e Integração de Segurança",
-          playerId: "panda-4eca7b85-1849-45d4-bea8-712f176228e8-b",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=4eca7b85-1849-45d4-bea8-712f176228e8",
+          playerId: "panda-edfcf734-41cd-44fa-923c-5981e0e3a037",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=edfcf734-41cd-44fa-923c-5981e0e3a037",
           transcript: "Vídeo. Controle de Acesso e Integração de Segurança. Aptidão Psicofísica, Saúde e Regras de Acesso. Assista ao vídeo sobre controle de acesso e integração de segurança. Avance quando concluir."
         },
         {
@@ -468,8 +468,8 @@ window.QUESTION_SCREEN_SESSION = {
           type: "video",
           kicker: "Vídeo",
           title: "Diagrama de Capacidade de Carga e Capacidade Residual",
-          playerId: "panda-c2e63ea3-4507-4fea-8162-fd3ce06209f7-b",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=c2e63ea3-4507-4fea-8162-fd3ce06209f7",
+          playerId: "panda-1d98ef8d-a138-4e9f-b607-d9561d6117bc",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=1d98ef8d-a138-4e9f-b607-d9561d6117bc",
           transcript: "Vídeo. Diagrama de Capacidade de Carga e Capacidade Residual. Normas de Trânsito Interno e Circulação. Assista ao vídeo sobre diagrama de capacidade de carga e capacidade residual. Avance quando concluir."
         },
         {
@@ -918,15 +918,6 @@ window.QUESTION_SCREEN_SESSION = {
             }
           ],
           transcript: "Guia rápido de segurança do Pit Stop. A baia de abastecimento de G L P e baterias é uma das zonas de maior risco químico e de explosão. Permitido apenas um equipamento por vez: aguarde na fila recuada. O operador deve apenas estacionar, desligar e puxar o freio. A troca de cilindro ou conexão de baterias é responsabilidade do técnico habilitado. As saídas do Pit Stop precisam ficar sempre livres. Proibido fumar ou qualquer chama exposta. Proibido celular ou dispositivo eletrônico ligado."
-        },
-        {
-          id: "nr11-m6-proibicoes",
-          type: "video",
-          kicker: "Vídeo",
-          title: "Proibições Críticas no Abastecimento",
-          playerId: "panda-d3fb5a02-92d5-4fd2-bba1-d168a37901f4-b",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=d3fb5a02-92d5-4fd2-bba1-d168a37901f4",
-          transcript: "Vídeo. Proibições Críticas no Abastecimento. Abastecimento, Zoneamento de Risco e Comportamento. Assista ao vídeo sobre proibições críticas no abastecimento. Avance quando concluir."
         },
         {
           id: "nr11-m6-zonas",
